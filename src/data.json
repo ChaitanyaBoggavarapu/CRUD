@@ -1,0 +1,30 @@
+{
+    "inventoryRead": [
+        {
+            "id": 1,
+            "type": "type1",
+            "manufacturer": "manufacturer1",
+            "model": "model1",
+            "serial_number": "serial_number1", 
+            "vendor": "vendor1",
+            "cost": 40.00,
+            "date_purchased": "10/10/2020",
+            "purchased_by": "Smith",
+            "count": 10,
+            "location": "Albuquerque"
+        },
+        {
+            "id": 2,
+            "type": "type",
+            "manufacturer": "manufacturer",
+            "model": "model",
+            "serial_number": "serial_number", 
+            "vendor": "vendor2",
+            "cost": 50.00,
+            "date_purchased": "10/14/2020",
+            "purchased_by": "Kevin",
+            "count": 20,
+            "location": "Texas"
+        }
+    ]
+}
